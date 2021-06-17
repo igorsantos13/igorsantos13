@@ -1,5 +1,5 @@
 # Hi there!
-I'm Igor Santos. It's a pleasure to meet you <3
+I'm Igor Santos. It's a pleasure to meet you.
 
 # Info
 

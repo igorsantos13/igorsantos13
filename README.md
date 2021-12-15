@@ -4,10 +4,11 @@ I'm Igor Santos. It's a pleasure to meet you.
 # Info
 
 - Name: Igor Santos
-- Age: 18
+- Age: 19
 - Nationality: Brazilian
 - Live in: Sao Paulo, Brazil
 - College: Universidade Cidade de São Paulo (UNICID), Sao Paulo, Brazil.
+- Technologies: HTML, CSS, JAVASCRIPT, REACT.
 
 
 <!---
